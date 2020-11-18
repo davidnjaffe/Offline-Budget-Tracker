@@ -6,6 +6,8 @@ The user will be able to add expenses and deposits to their budget with or witho
 
 ![Budget Tracker_Demo](./assets/Home%20Screen.png)
 ![Budget Tracker_Demo](./assets/app%20demo.gif)
+![Budget Tracker_Demo](./assets/app%20demo.gif)
+
                 
 ![GitHub License](https://img.shields.io/badge/license-MIT-green.svg)
 
@@ -41,6 +43,7 @@ Project license: MIT
 
 ## Notes
 
+Link to working App: https://offline-money-tracker-app.herokuapp.com/
 
                                                         
 ## Questions
