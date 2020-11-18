@@ -5,6 +5,7 @@
 The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 
 ![Budget Tracker_Demo](./assets/Home%20Screen.png)
+![Budget Tracker_Demo](./assets/app%20demo.gif)
                 
 ![GitHub License](https://img.shields.io/badge/license-MIT-green.svg)
 
