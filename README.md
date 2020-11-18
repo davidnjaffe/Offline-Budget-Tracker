@@ -43,7 +43,8 @@ Project license: MIT
 
 ## Notes
 
-Link to working App: https://offline-money-tracker-app.herokuapp.com/
+
+[TRY THE APP!](https://offline-money-tracker-app.herokuapp.com/) 
 
                                                         
 ## Questions
